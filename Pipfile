@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+selenium = "*"
+toolium = "*"
+behave = "*"
+behave-pytest = "*"
+pytest = "==2.9.2"
+needle = "==0.4.1"
+
+[requires]
+python_version = "3.7"

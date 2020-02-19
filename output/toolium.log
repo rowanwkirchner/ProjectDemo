@@ -1,0 +1,1304 @@
+DEBUG   2020-02-13 13:44:01,060 [connectionpool] http://127.0.0.1:56187 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:44:01,212 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:44:01,247 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:44:01,428 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:44:01,452 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:44:01,474 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:44:01,482 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:44:01,495 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:44:04,342 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:38447
+DEBUG   2020-02-13 13:44:05,688 [connectionpool] http://127.0.0.1:38447 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:44:05,705 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:44:05,715 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:44:05,759 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:44:05,771 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:44:05,788 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:44:05,795 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:44:05,802 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:44:08,565 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43611
+DEBUG   2020-02-13 13:44:09,970 [connectionpool] http://127.0.0.1:43611 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:44:09,987 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:44:10,008 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 13:44:10,079 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:44:10,091 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:44:10,110 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:44:10,118 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:44:10,128 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:44:12,912 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:57375
+DEBUG   2020-02-13 13:44:14,327 [connectionpool] http://127.0.0.1:57375 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:44:14,344 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:44:14,363 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 13:44:14,423 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:44:14,448 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:44:14,487 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:44:14,494 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:44:14,503 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:44:17,313 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41445
+DEBUG   2020-02-13 13:44:18,676 [connectionpool] http://127.0.0.1:41445 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:44:18,693 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:44:18,712 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:48:04,170 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:48:04,178 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:48:04,221 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:48:04,227 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:48:04,232 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:48:07,042 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46187
+DEBUG   2020-02-13 13:48:08,461 [connectionpool] http://127.0.0.1:46187 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:48:08,483 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:48:08,499 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:48:08,607 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:48:08,620 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:48:08,647 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:48:08,655 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:48:08,661 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:48:11,456 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59203
+DEBUG   2020-02-13 13:48:12,892 [connectionpool] http://127.0.0.1:59203 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:48:12,909 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:48:12,920 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:48:12,968 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:48:12,993 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:48:13,015 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:48:13,022 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:48:13,031 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:48:16,185 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:60573
+DEBUG   2020-02-13 13:48:17,568 [connectionpool] http://127.0.0.1:60573 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:48:17,586 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:48:17,606 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 13:48:17,666 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:48:17,678 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:48:17,692 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:48:17,701 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:48:17,706 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:48:20,498 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48925
+DEBUG   2020-02-13 13:48:21,922 [connectionpool] http://127.0.0.1:48925 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:48:22,943 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:48:22,955 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 13:48:23,067 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:48:23,090 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:48:23,116 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:48:23,123 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:48:23,132 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:48:26,250 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:58139
+DEBUG   2020-02-13 13:48:31,042 [connectionpool] http://127.0.0.1:58139 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:48:31,060 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:48:31,076 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:50:25,678 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:50:25,687 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:50:25,734 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:50:25,742 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:50:25,747 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:50:28,613 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41281
+DEBUG   2020-02-13 13:50:30,000 [connectionpool] http://127.0.0.1:41281 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:50:30,024 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:50:30,038 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:50:30,170 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:50:30,186 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:50:30,207 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:50:30,214 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:50:30,222 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:50:33,101 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46159
+DEBUG   2020-02-13 13:50:34,488 [connectionpool] http://127.0.0.1:46159 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:50:34,508 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:50:34,522 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 13:50:34,586 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:50:34,604 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:50:34,625 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:50:34,634 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:50:34,641 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:50:37,554 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41287
+DEBUG   2020-02-13 13:50:39,045 [connectionpool] http://127.0.0.1:41287 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:50:39,065 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:50:39,086 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 13:50:39,159 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:50:39,169 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:50:39,199 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:50:39,207 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:50:39,229 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:50:42,078 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:40721
+DEBUG   2020-02-13 13:50:43,498 [connectionpool] http://127.0.0.1:40721 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:50:43,519 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:50:43,538 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 13:50:43,609 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 13:50:43,628 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 13:50:43,641 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 13:50:43,648 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 13:50:43,654 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 13:50:46,684 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:52783
+DEBUG   2020-02-13 13:50:48,081 [connectionpool] http://127.0.0.1:52783 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 13:50:49,100 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 13:50:49,114 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 14:01:43,915 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 14:01:43,922 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 14:01:43,968 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 14:01:43,975 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 14:01:43,981 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 14:01:46,858 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:42459
+DEBUG   2020-02-13 14:01:48,494 [connectionpool] http://127.0.0.1:42459 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 14:01:48,517 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 14:01:48,529 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 14:01:48,653 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 14:01:48,674 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 14:01:48,702 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 14:01:48,709 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 14:01:48,716 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 14:01:51,609 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45805
+DEBUG   2020-02-13 14:01:52,995 [connectionpool] http://127.0.0.1:45805 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 14:01:53,013 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 14:01:53,027 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 14:01:53,092 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 14:01:53,105 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 14:01:53,124 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 14:01:53,130 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 14:01:53,136 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 14:01:55,966 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:53561
+DEBUG   2020-02-13 14:01:57,370 [connectionpool] http://127.0.0.1:53561 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 14:01:58,404 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 14:01:58,416 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 14:01:58,496 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 14:01:58,513 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 14:01:58,538 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 14:01:58,546 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 14:01:58,565 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 14:02:01,445 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:40149
+DEBUG   2020-02-13 14:02:02,879 [connectionpool] http://127.0.0.1:40149 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 14:02:02,899 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 14:02:02,921 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 14:02:02,993 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 14:02:03,004 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 14:02:03,021 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 14:02:03,027 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 14:02:03,034 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 14:02:05,867 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46003
+DEBUG   2020-02-13 14:02:07,257 [connectionpool] http://127.0.0.1:46003 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 14:02:07,274 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 14:02:07,291 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:34:21,300 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:34:21,307 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:34:21,356 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:34:21,362 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:34:21,368 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:34:24,186 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50341
+DEBUG   2020-02-13 15:34:26,273 [connectionpool] http://127.0.0.1:50341 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:34:26,299 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:34:26,313 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:34:26,474 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:34:26,491 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:34:26,521 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:34:26,541 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:34:26,564 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:34:29,487 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43009
+DEBUG   2020-02-13 15:34:30,873 [connectionpool] http://127.0.0.1:43009 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:34:30,892 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:34:30,911 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:34:30,966 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:34:30,979 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:34:30,995 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:34:31,004 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:34:31,014 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:34:33,809 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:53347
+DEBUG   2020-02-13 15:34:35,186 [connectionpool] http://127.0.0.1:53347 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:34:35,205 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:34:35,221 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 15:34:35,286 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:34:35,295 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:34:35,309 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:34:35,314 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:34:35,321 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:34:38,125 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:34713
+DEBUG   2020-02-13 15:34:39,487 [connectionpool] http://127.0.0.1:34713 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:34:39,504 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:34:39,530 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 15:34:39,595 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:34:39,610 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:34:39,634 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:34:39,643 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:34:39,650 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:34:42,463 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:35025
+DEBUG   2020-02-13 15:34:43,803 [connectionpool] http://127.0.0.1:35025 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:34:43,820 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:34:43,841 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:39:33,822 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:39:33,851 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:39:33,931 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:39:33,939 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:39:33,961 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:39:37,074 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45651
+DEBUG   2020-02-13 15:39:38,511 [connectionpool] http://127.0.0.1:45651 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:39:38,536 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:39:38,551 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:39:38,661 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:39:38,674 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:39:38,694 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:39:38,700 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:39:38,708 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:18,527 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:40:18,535 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:40:18,584 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:40:18,589 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:40:18,595 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:21,432 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45267
+DEBUG   2020-02-13 15:40:23,037 [connectionpool] http://127.0.0.1:45267 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:40:23,059 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:40:23,072 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:40:23,192 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:40:23,202 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:40:23,219 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:40:23,228 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:40:23,234 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:26,024 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:47807
+DEBUG   2020-02-13 15:40:27,408 [connectionpool] http://127.0.0.1:47807 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:40:27,424 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:40:27,436 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-13 15:40:27,492 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:40:27,504 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:40:27,526 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:40:27,535 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:40:27,543 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:30,636 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50445
+DEBUG   2020-02-13 15:40:32,378 [connectionpool] http://127.0.0.1:50445 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:40:32,394 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:40:32,417 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-13 15:40:32,475 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:40:32,486 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:40:32,501 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:40:32,506 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:40:32,513 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:35,682 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:38971
+DEBUG   2020-02-13 15:40:37,227 [connectionpool] http://127.0.0.1:38971 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:40:37,251 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:40:37,273 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-13 15:40:37,395 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-13 15:40:37,444 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-13 15:40:37,492 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-13 15:40:37,522 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-13 15:40:37,531 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-13 15:40:41,209 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:49589
+DEBUG   2020-02-13 15:40:42,552 [connectionpool] http://127.0.0.1:49589 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-13 15:40:42,576 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-13 15:40:42,599 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:22:37,948 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:22:37,951 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:22:37,965 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:22:37,967 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:22:37,969 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:22:39,550 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:58475
+DEBUG   2020-02-14 08:22:40,333 [connectionpool] http://127.0.0.1:58475 "POST /session HTTP/1.1" 500 346
+ERROR   2020-02-14 08:22:40,342 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:22:40,345 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:22:40,387 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:22:40,393 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:22:40,399 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:22:40,402 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:22:40,405 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:22:41,991 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:38529
+DEBUG   2020-02-14 08:22:43,188 [connectionpool] http://127.0.0.1:38529 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:22:43,204 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:22:43,208 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:22:43,228 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:22:43,233 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:22:43,237 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:22:43,238 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:22:43,240 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:22:44,800 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50279
+DEBUG   2020-02-14 08:22:45,981 [connectionpool] http://127.0.0.1:50279 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:22:45,997 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:22:46,010 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 08:22:46,041 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:22:46,047 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:22:46,053 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:22:46,055 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:22:46,057 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:22:47,610 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:53877
+DEBUG   2020-02-14 08:22:48,762 [connectionpool] http://127.0.0.1:53877 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:22:48,779 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:22:48,792 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 08:22:48,827 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:22:48,833 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:22:48,840 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:22:48,843 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:22:48,844 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:22:50,400 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:40309
+DEBUG   2020-02-14 08:22:51,598 [connectionpool] http://127.0.0.1:40309 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:22:52,605 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:22:52,610 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:29:12,841 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:29:12,844 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:29:12,856 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:29:12,858 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:29:12,860 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:29:14,444 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:60053
+DEBUG   2020-02-14 08:29:15,768 [connectionpool] http://127.0.0.1:60053 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:29:15,788 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:29:15,802 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:29:15,855 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:29:15,858 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:29:15,864 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:29:15,866 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:29:15,868 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:29:17,448 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:37893
+DEBUG   2020-02-14 08:29:18,665 [connectionpool] http://127.0.0.1:37893 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:29:18,679 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:29:18,688 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:29:18,712 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:29:18,718 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:29:18,726 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:29:18,728 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:29:18,729 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:29:20,299 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43139
+DEBUG   2020-02-14 08:38:03,226 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:38:03,228 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:38:03,250 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:38:03,253 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:38:03,255 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:38:04,887 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:32809
+DEBUG   2020-02-14 08:38:06,156 [connectionpool] http://127.0.0.1:32809 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:38:07,166 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:38:07,169 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:38:07,211 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:38:07,215 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:38:07,222 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:38:07,225 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:38:07,228 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:38:08,857 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:57421
+DEBUG   2020-02-14 08:38:10,069 [connectionpool] http://127.0.0.1:57421 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:38:11,076 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:38:11,079 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 08:38:11,095 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:38:11,099 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:38:11,105 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:38:11,107 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:38:11,110 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:38:12,734 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:49591
+DEBUG   2020-02-14 08:38:13,908 [connectionpool] http://127.0.0.1:49591 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:38:14,916 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:38:14,921 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 08:38:14,941 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:38:14,946 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:38:14,951 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:38:14,954 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:38:14,957 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:38:16,618 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:54463
+DEBUG   2020-02-14 08:38:17,824 [connectionpool] http://127.0.0.1:54463 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:38:17,830 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:38:17,834 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 08:38:17,856 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 08:38:17,860 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 08:38:17,865 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 08:38:17,869 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 08:38:17,872 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 08:38:19,496 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:44067
+DEBUG   2020-02-14 08:38:20,745 [connectionpool] http://127.0.0.1:44067 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 08:38:21,751 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 08:38:21,755 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:35:34,328 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:35:34,336 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:35:34,385 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:35:34,395 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:35:34,401 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:35:37,276 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:44183
+DEBUG   2020-02-14 09:35:39,185 [connectionpool] http://127.0.0.1:44183 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:35:39,208 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:35:39,219 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:35:39,320 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:35:39,334 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:35:39,353 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:35:39,359 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:35:39,365 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:35:42,160 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:51543
+DEBUG   2020-02-14 09:35:43,963 [connectionpool] http://127.0.0.1:51543 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:35:43,977 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:35:43,988 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:35:44,040 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:35:44,053 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:35:44,072 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:35:44,079 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:35:44,087 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:35:46,895 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43649
+DEBUG   2020-02-14 09:35:48,238 [connectionpool] http://127.0.0.1:43649 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:35:48,257 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:35:48,274 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 09:35:48,345 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:35:48,366 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:35:48,387 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:35:48,397 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:35:48,403 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:35:51,179 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48965
+DEBUG   2020-02-14 09:35:52,535 [connectionpool] http://127.0.0.1:48965 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:35:52,551 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:35:52,570 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 09:35:52,625 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:35:52,640 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:35:52,653 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:35:52,664 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:35:52,677 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:35:55,657 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:55623
+DEBUG   2020-02-14 09:35:57,116 [connectionpool] http://127.0.0.1:55623 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:35:57,137 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:35:57,164 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:54:53,361 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:54:53,371 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:54:53,422 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:54:53,428 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:54:53,433 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:54:56,284 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46735
+DEBUG   2020-02-14 09:54:57,634 [connectionpool] http://127.0.0.1:46735 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:54:57,656 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:54:57,670 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:54:57,804 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:54:57,815 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:54:57,832 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:54:57,839 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:54:57,845 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:55:00,628 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:35881
+DEBUG   2020-02-14 09:55:02,447 [connectionpool] http://127.0.0.1:35881 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:55:02,486 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:55:02,505 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 09:55:02,589 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:55:02,645 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:55:02,667 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:55:02,675 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:55:02,684 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:55:05,691 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:34535
+DEBUG   2020-02-14 09:55:09,345 [connectionpool] http://127.0.0.1:34535 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:55:09,421 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:55:09,440 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 09:55:09,577 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:55:09,631 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:55:09,702 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:55:09,721 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:55:09,746 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:55:13,547 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50519
+DEBUG   2020-02-14 09:55:16,261 [connectionpool] http://127.0.0.1:50519 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:55:16,363 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:55:16,420 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 09:55:16,660 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 09:55:16,702 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 09:55:16,770 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 09:55:16,902 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 09:55:16,960 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 09:55:23,069 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:52343
+DEBUG   2020-02-14 09:55:27,245 [connectionpool] http://127.0.0.1:52343 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 09:55:27,278 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 09:55:27,315 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:46:39,435 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:46:39,445 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:46:39,509 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:46:39,528 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:46:39,536 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:46:43,159 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48193
+DEBUG   2020-02-14 10:46:45,419 [connectionpool] http://127.0.0.1:48193 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:46:45,463 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:46:45,477 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:46:45,647 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:46:45,666 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:46:45,708 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:46:45,727 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:46:45,733 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:46:49,382 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:37095
+DEBUG   2020-02-14 10:46:52,552 [connectionpool] http://127.0.0.1:37095 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:46:52,578 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:46:52,595 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:46:52,681 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:46:52,704 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:46:52,739 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:46:52,759 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:46:52,769 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:46:56,241 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:60343
+DEBUG   2020-02-14 10:46:57,895 [connectionpool] http://127.0.0.1:60343 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:46:57,919 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:46:57,940 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 10:46:58,054 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:46:58,071 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:46:58,105 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:46:58,119 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:46:58,142 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:47:02,185 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:37867
+DEBUG   2020-02-14 10:47:03,816 [connectionpool] http://127.0.0.1:37867 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:47:03,844 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:47:03,865 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 10:47:03,955 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:47:03,978 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:47:04,014 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:47:04,022 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:47:04,040 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:47:07,532 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:55909
+DEBUG   2020-02-14 10:47:09,131 [connectionpool] http://127.0.0.1:55909 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:47:09,167 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:47:09,190 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:57:27,098 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:57:27,110 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:57:27,235 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:57:27,259 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:57:27,288 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:57:32,546 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:42045
+DEBUG   2020-02-14 10:57:37,739 [connectionpool] http://127.0.0.1:42045 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:57:37,824 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:57:37,859 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:57:38,182 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:57:38,233 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:57:38,366 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:57:38,549 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:57:38,788 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:57:46,798 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50469
+DEBUG   2020-02-14 10:57:51,138 [connectionpool] http://127.0.0.1:50469 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:57:51,247 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:57:51,333 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 10:57:51,535 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:57:51,568 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:57:51,655 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:57:51,705 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:57:51,732 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:57:59,157 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:40401
+DEBUG   2020-02-14 10:58:01,185 [connectionpool] http://127.0.0.1:40401 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:58:01,250 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:58:01,296 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 10:58:01,477 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:58:01,513 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:58:01,565 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:58:01,582 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:58:01,593 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:58:08,084 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41201
+DEBUG   2020-02-14 10:58:13,400 [connectionpool] http://127.0.0.1:41201 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:58:13,445 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:58:13,484 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 10:58:13,637 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 10:58:13,658 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 10:58:13,728 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 10:58:13,760 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 10:58:13,782 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 10:58:20,951 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43603
+DEBUG   2020-02-14 10:58:23,270 [connectionpool] http://127.0.0.1:43603 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 10:58:23,331 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 10:58:23,363 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 11:01:18,420 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 11:01:18,447 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 11:01:18,539 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 11:01:18,548 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 11:01:18,582 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 11:01:22,892 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:32769
+DEBUG   2020-02-14 11:01:24,450 [connectionpool] http://127.0.0.1:32769 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 11:01:24,481 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 11:01:24,494 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-14 11:01:24,672 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 11:01:24,700 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 11:01:24,759 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 11:01:24,778 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 11:01:24,788 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 11:01:29,720 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:58461
+DEBUG   2020-02-14 11:01:31,348 [connectionpool] http://127.0.0.1:58461 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 11:01:31,374 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 11:01:31,390 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-14 11:01:31,451 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 11:01:31,476 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 11:01:31,494 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 11:01:31,503 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 11:01:31,518 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 11:01:35,396 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45847
+DEBUG   2020-02-14 11:01:36,976 [connectionpool] http://127.0.0.1:45847 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 11:01:37,006 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 11:01:37,031 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-14 11:01:37,121 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 11:01:37,153 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 11:01:37,178 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 11:01:37,196 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 11:01:37,206 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 11:01:40,716 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:37731
+DEBUG   2020-02-14 11:01:42,919 [connectionpool] http://127.0.0.1:37731 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 11:01:42,942 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 11:01:42,960 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-14 11:01:43,044 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-14 11:01:43,061 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-14 11:01:43,078 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-14 11:01:43,086 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-14 11:01:43,091 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-14 11:01:46,624 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:57965
+DEBUG   2020-02-14 11:01:48,466 [connectionpool] http://127.0.0.1:57965 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-14 11:01:48,487 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-14 11:01:48,506 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 08:52:02,212 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 08:52:02,215 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 08:52:02,225 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 08:52:02,227 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 08:52:02,229 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 08:52:03,662 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:54821
+DEBUG   2020-02-17 08:52:04,390 [connectionpool] http://127.0.0.1:54821 "POST /session HTTP/1.1" 500 346
+ERROR   2020-02-17 08:52:04,396 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 08:52:04,401 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 08:52:04,421 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 08:52:04,426 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 08:52:04,430 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 08:52:04,432 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 08:52:04,434 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 08:52:05,872 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:60889
+DEBUG   2020-02-17 08:52:06,991 [connectionpool] http://127.0.0.1:60889 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 08:52:07,998 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 08:52:08,003 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 08:52:08,038 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 08:52:08,041 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 08:52:08,045 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 08:52:08,047 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 08:52:08,048 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 08:52:09,468 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:52581
+DEBUG   2020-02-17 08:52:10,591 [connectionpool] http://127.0.0.1:52581 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 08:52:11,601 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 08:52:11,607 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-17 08:52:11,647 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 08:52:11,650 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 08:52:11,654 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 08:52:11,656 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 08:52:11,658 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 08:52:13,090 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:49615
+DEBUG   2020-02-17 08:52:14,252 [connectionpool] http://127.0.0.1:49615 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 08:52:15,260 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 08:52:15,267 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-17 08:52:15,298 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 08:52:15,301 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 08:52:15,306 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 08:52:15,308 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 08:52:15,310 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 08:52:16,729 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:39799
+DEBUG   2020-02-17 08:52:17,842 [connectionpool] http://127.0.0.1:39799 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 08:52:18,848 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 08:52:18,855 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:03:36,502 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:03:36,504 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:03:36,515 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:03:36,516 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:03:36,517 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:03:37,953 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:47363
+DEBUG   2020-02-17 09:03:39,183 [connectionpool] http://127.0.0.1:47363 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:03:39,198 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:03:39,205 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:03:39,237 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:03:39,240 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:03:39,243 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:03:39,245 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:03:39,246 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:03:40,678 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:57037
+DEBUG   2020-02-17 09:03:41,843 [connectionpool] http://127.0.0.1:57037 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:03:42,853 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:03:42,859 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:03:42,891 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:03:42,897 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:03:42,903 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:03:42,906 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:03:42,908 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:03:44,333 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46755
+DEBUG   2020-02-17 09:03:45,469 [connectionpool] http://127.0.0.1:46755 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:03:46,475 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:03:46,479 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-17 09:03:46,499 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:03:46,502 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:03:46,506 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:03:46,509 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:03:46,511 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:03:48,001 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:43313
+DEBUG   2020-02-17 09:03:49,201 [connectionpool] http://127.0.0.1:43313 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:03:49,206 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:03:49,209 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-17 09:03:49,225 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:03:49,229 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:03:49,235 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:03:49,242 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:03:49,245 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:03:50,741 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48759
+DEBUG   2020-02-17 09:03:51,934 [connectionpool] http://127.0.0.1:48759 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:03:52,941 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:03:52,947 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:04:35,990 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:04:35,991 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:04:36,002 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:04:36,009 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:04:36,011 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:04:37,441 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:34283
+DEBUG   2020-02-17 09:04:38,564 [connectionpool] http://127.0.0.1:34283 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:04:38,573 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:04:38,577 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:04:38,599 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:04:38,602 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:04:38,606 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:04:38,607 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:04:38,609 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:04:40,033 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:48381
+DEBUG   2020-02-17 09:04:41,157 [connectionpool] http://127.0.0.1:48381 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:04:41,169 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:04:41,175 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:04:41,197 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:04:41,200 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:04:41,205 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:04:41,208 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:04:41,209 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:04:42,635 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:49167
+DEBUG   2020-02-17 09:04:43,793 [connectionpool] http://127.0.0.1:49167 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:04:43,807 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:04:43,819 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-17 09:04:43,843 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:04:43,846 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:04:43,850 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:04:43,852 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:04:43,854 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:04:45,270 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:51253
+DEBUG   2020-02-17 09:04:46,380 [connectionpool] http://127.0.0.1:51253 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:04:47,386 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:04:47,395 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-17 09:04:47,413 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:04:47,416 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:04:47,421 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:04:47,422 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:04:47,424 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:04:48,859 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:35219
+DEBUG   2020-02-17 09:04:50,013 [connectionpool] http://127.0.0.1:35219 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:04:51,019 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:04:51,023 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:05:39,750 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:05:39,752 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:05:39,763 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:05:39,765 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:05:39,766 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:05:41,184 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:55321
+DEBUG   2020-02-17 09:05:42,306 [connectionpool] http://127.0.0.1:55321 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:05:42,322 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:05:42,328 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:05:42,363 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:05:42,366 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:05:42,370 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:05:42,372 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:05:42,374 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:05:43,803 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:38195
+DEBUG   2020-02-17 09:05:56,512 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:05:56,514 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:05:56,524 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:05:56,525 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:05:56,527 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:05:57,952 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45965
+DEBUG   2020-02-17 09:05:59,117 [connectionpool] http://127.0.0.1:45965 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:05:59,132 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:05:59,136 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:05:59,159 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:05:59,162 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:05:59,166 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:05:59,168 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:05:59,170 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:25:46,363 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:25:46,364 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:25:46,377 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:25:46,380 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:25:46,382 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:25:47,838 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:56833
+DEBUG   2020-02-17 09:25:48,996 [connectionpool] http://127.0.0.1:56833 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:25:49,004 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:25:49,008 [environment] The scenario 'Create account process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:25:49,031 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:25:49,035 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:25:49,040 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:25:49,042 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:25:49,043 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:25:50,502 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:45725
+DEBUG   2020-02-17 09:25:51,650 [connectionpool] http://127.0.0.1:45725 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:25:51,655 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:25:51,658 [environment] The scenario 'Negative Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 09:25:51,674 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:25:51,677 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:25:51,681 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:25:51,683 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:25:51,684 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:25:53,162 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41205
+DEBUG   2020-02-17 09:25:54,302 [connectionpool] http://127.0.0.1:41205 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:25:55,307 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:25:55,311 [environment] The scenario 'Negative Login process -- @1.2 ' has failed
+DEBUG   2020-02-17 09:25:55,328 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:25:55,331 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:25:55,336 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:25:55,339 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:25:55,341 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:25:56,844 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:32853
+DEBUG   2020-02-17 09:25:57,996 [connectionpool] http://127.0.0.1:32853 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:25:58,024 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:25:58,041 [environment] The scenario 'Negative Login process -- @1.3 ' has failed
+DEBUG   2020-02-17 09:25:58,087 [config_parser] Reading properties from file: /dev/shm/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 09:25:58,096 [config_parser] Properties config file not found: /dev/shm/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 09:25:58,109 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 09:25:58,171 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 09:25:58,191 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 09:26:00,146 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:44541
+DEBUG   2020-02-17 09:26:01,343 [connectionpool] http://127.0.0.1:44541 "POST /session HTTP/1.1" 500 314
+ERROR   2020-02-17 09:26:01,349 [config_driver] Chrome driver can not be launched: Message: unknown error: Chrome failed to start: crashed
+ERROR   2020-02-17 09:26:01,353 [environment] The scenario 'Positive Login process -- @1.1 ' has failed
+DEBUG   2020-02-17 13:34:16,525 [config_parser] Reading properties from file: /dev/smh/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 13:34:16,528 [config_parser] Properties config file not found: /dev/smh/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 13:34:16,538 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 13:34:16,541 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 13:34:16,543 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 13:34:18,065 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:33783
+DEBUG   2020-02-17 13:34:18,710 [connectionpool] http://127.0.0.1:33783 "POST /session HTTP/1.1" 200 643
+DEBUG   2020-02-17 13:34:18,827 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:18,833 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-02-17 13:34:18,954 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/window/maximize HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:18,973 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:18,978 [driver_wrapper] Window size: 800 x 600
+DEBUG   2020-02-17 13:34:18,985 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:18,991 [environment] Running new scenario: Create account process -- @1.1 
+INFO    2020-02-17 13:34:19,015 [custom_logger] Attempting to load page HomePageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:19,020 [custom_logger] Mobile page HomePageObject = 'HomePageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:34:25,077 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,083 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,117 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:25,151 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,157 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,163 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,191 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:25,226 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,232 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:25,235 [custom_logger] Loaded page HomePageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:25,240 [custom_logger] The mobile_page object = HomePageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,242 [custom_logger] Element name = search, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b497510>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,245 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b497610>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,247 [custom_logger] Element name = create_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b497690>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,249 [custom_logger] Element name = search_btn, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b4974d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,251 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b4975d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,253 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b497590>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:25,256 [custom_logger] Element name = create_email, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b497650>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+DEBUG   2020-02-17 13:34:25,260 [custom_logger] Attempting to set 'create_email.text' to 'mpLwando@gmail.com': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:25,264 [custom_logger] Found element create_email in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:25,267 [custom_logger] Element create_email = '<toolium.pageelements.text_page_element.Text object at 0x7f490b497650>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:25,296 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:25,814 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/77212721-6d92-4661-bd78-05d3b71c5bcd/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:25,818 [custom_logger] Found element create_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:25,820 [custom_logger] Element create_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b497690>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:25,821 [custom_logger] Found element create_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:25,823 [custom_logger] Element create_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b497690>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:25,843 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:25,857 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 58
+DEBUG   2020-02-17 13:34:25,859 [custom_logger] create_button.class = btn btn-default button button-medium exclusive: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:25,863 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,876 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:25,895 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,911 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/element/a36160f1-6b60-4537-8d44-0c526e89f690/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,916 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:25,932 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:26,027 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/a36160f1-6b60-4537-8d44-0c526e89f690/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:26,029 [custom_logger] Clicked on element 'create_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:34:26,032 [custom_logger] Attempting to load page CreateAccountPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:26,035 [custom_logger] Mobile page CreateAccountPageObject = 'CreateAccountPageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:34:26,048 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:26,051 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:26,076 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:26,612 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:27,155 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:27,694 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:28,266 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:28,798 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 404 264
+DEBUG   2020-02-17 13:34:29,334 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:29,370 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,377 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:29,379 [custom_logger] Loaded page CreateAccountPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:29,382 [custom_logger] The mobile_page object = CreateAccountPageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,384 [custom_logger] Element name = address_firstname, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223110>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,386 [custom_logger] Element name = address_mobile_number, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223390>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,390 [custom_logger] Element name = address_state, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b2232d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,393 [custom_logger] Element name = address_country, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223350>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,395 [custom_logger] Element name = address_line2, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223210>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,398 [custom_logger] Element name = email, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223090>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,400 [custom_logger] Element name = mrs_radio_btn, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b21df90>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,402 [custom_logger] Element name = address_company, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223190>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,406 [custom_logger] Element name = firstname, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b21dfd0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,408 [custom_logger] Element name = lastname, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223050>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,410 [custom_logger] Element name = button_select, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223290>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,412 [custom_logger] Element name = address_lastname, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223150>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,414 [custom_logger] Element name = address, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b2231d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,416 [custom_logger] Element name = password, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b2230d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,419 [custom_logger] Element name = address_zip, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223310>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,422 [custom_logger] Element name = address_city, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b223250>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,425 [custom_logger] Element name = register_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223410>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,427 [custom_logger] Element name = address_used, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b2233d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:29,433 [custom_logger] Found element mrs_radio_btn in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,439 [custom_logger] Element mrs_radio_btn = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21df90>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:29,442 [custom_logger] Found element mrs_radio_btn in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,445 [custom_logger] Element mrs_radio_btn = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21df90>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,470 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:29,490 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 17
+DEBUG   2020-02-17 13:34:29,493 [custom_logger] mrs_radio_btn.class = radio: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:29,497 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,520 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:29,546 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,567 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/element/6d16ec13-496b-46f7-9bc9-f8bc2856d5c3/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,573 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,590 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:29,683 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/6d16ec13-496b-46f7-9bc9-f8bc2856d5c3/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,685 [custom_logger] Clicked on element 'mrs_radio_btn': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+DEBUG   2020-02-17 13:34:29,688 [custom_logger] Attempting to set 'firstname.text' to 'Sinazo': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:29,690 [custom_logger] Found element firstname in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,692 [custom_logger] Element firstname = '<toolium.pageelements.text_page_element.Text object at 0x7f490b21dfd0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,710 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:29,912 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/30a77d2b-e603-4e40-b4fc-cf736c8ce34a/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:29,915 [custom_logger] Attempting to set 'lastname.text' to 'Hlalele': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:29,917 [custom_logger] Found element lastname in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,920 [custom_logger] Element lastname = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223050>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:29,941 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:30,175 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/66719dbd-ee30-4927-a45d-40ae531174a0/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:30,178 [custom_logger] Attempting to set 'password.text' to 'sinawo#': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:30,181 [custom_logger] Found element password in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,183 [custom_logger] Element password = '<toolium.pageelements.text_page_element.Text object at 0x7f490b2230d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,202 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:30,432 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/a4f4094a-5cdc-451a-996e-16607db9d86c/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:30,435 [custom_logger] Attempting to set 'address_company.text' to 'Kineticskunk': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:30,437 [custom_logger] Found element address_company in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,439 [custom_logger] Element address_company = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223190>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,458 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:30,800 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/9a9ba1aa-ab59-4c53-82ef-fee5fe5c8ab1/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:30,804 [custom_logger] Attempting to set 'address.text' to 'groove building': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:30,806 [custom_logger] Found element address in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,808 [custom_logger] Element address = '<toolium.pageelements.text_page_element.Text object at 0x7f490b2231d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:30,826 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:31,213 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/2fb9ffba-e534-432d-b678-e9dd93b12128/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,217 [custom_logger] Attempting to set 'address_line2.text' to 'claremont': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:31,220 [custom_logger] Found element address_line2 in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,222 [custom_logger] Element address_line2 = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223210>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,243 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:31,510 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/421e1cf3-6f18-4603-a536-2baa160f5fc6/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,513 [custom_logger] Attempting to set 'address_city.text' to 'Cape town': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:31,516 [custom_logger] Found element address_city in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,518 [custom_logger] Element address_city = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223250>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,540 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:31,797 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/646e9551-c49a-49bb-90b4-c4d10b95f68c/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:31,800 [custom_logger] Found element button_select in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,802 [custom_logger] Element button_select = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223290>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:31,804 [custom_logger] Found element button_select in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,806 [custom_logger] Element button_select = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223290>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:31,819 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:31,830 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 28
+DEBUG   2020-02-17 13:34:31,833 [custom_logger] button_select.id = uniform-id_state: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:31,835 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,847 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:31,862 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,876 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/element/e57d3759-db36-46de-95a1-4d59dc8947ca/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,880 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:31,891 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,000 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/e57d3759-db36-46de-95a1-4d59dc8947ca/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,003 [custom_logger] Clicked on element 'button_select': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+DEBUG   2020-02-17 13:34:32,015 [custom_logger] Attempting to set 'address_zip.text' to '10001': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:32,016 [custom_logger] Found element address_zip in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,023 [custom_logger] Element address_zip = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223310>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,059 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,230 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/a9276bdf-a69f-49e0-bd9a-a9d2c816fd83/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:32,233 [custom_logger] Found element address_country in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,236 [custom_logger] Element address_country = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223350>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:32,238 [custom_logger] Found element address_country in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,240 [custom_logger] Element address_country = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223350>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,262 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,278 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 30
+DEBUG   2020-02-17 13:34:32,280 [custom_logger] address_country.id = uniform-id_country: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:32,283 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,298 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,320 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,335 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/element/9df0018e-fc72-4115-b8d7-47102dcd6211/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,339 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,352 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,435 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/9df0018e-fc72-4115-b8d7-47102dcd6211/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,438 [custom_logger] Clicked on element 'address_country': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+DEBUG   2020-02-17 13:34:32,445 [custom_logger] Attempting to set 'address_mobile_number.text' to '0732027291': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:32,448 [custom_logger] Found element address_mobile_number in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,450 [custom_logger] Element address_mobile_number = '<toolium.pageelements.text_page_element.Text object at 0x7f490b223390>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,476 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,731 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/f70f0ef9-1e6b-44d2-a24b-fd4c34b409f8/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:32,735 [custom_logger] Found element register_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,738 [custom_logger] Element register_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223410>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:32,740 [custom_logger] Found element register_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,742 [custom_logger] Element register_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223410>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:32,761 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,771 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:32,773 [custom_logger] register_button.class = btn btn-default button button-medium: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:32,788 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,800 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:32,818 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,833 [connectionpool] http://127.0.0.1:33783 "GET /session/6045c28527ece3cec5c90c0fe5caeac5/element/03c4a100-f401-49bb-ad44-dcb01b6cb1b8/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,836 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:32,848 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:35,133 [connectionpool] http://127.0.0.1:33783 "POST /session/6045c28527ece3cec5c90c0fe5caeac5/element/03c4a100-f401-49bb-ad44-dcb01b6cb1b8/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:35,136 [custom_logger] Clicked on element 'register_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:34:35,139 [environment] The scenario 'Create account process -- @1.1 ' has passed
+DEBUG   2020-02-17 13:34:35,194 [connectionpool] http://127.0.0.1:33783 "DELETE /session/6045c28527ece3cec5c90c0fe5caeac5 HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:35,220 [config_parser] Reading properties from file: /dev/smh/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 13:34:35,223 [config_parser] Properties config file not found: /dev/smh/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 13:34:35,226 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 13:34:35,229 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 13:34:35,230 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 13:34:36,698 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:41237
+DEBUG   2020-02-17 13:34:37,017 [connectionpool] http://127.0.0.1:41237 "POST /session HTTP/1.1" 200 643
+DEBUG   2020-02-17 13:34:37,135 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:37,140 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-02-17 13:34:37,266 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/window/maximize HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:37,284 [connectionpool] http://127.0.0.1:41237 "GET /session/2ae920ea3c6aa9de41730757a4b9ad06/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:37,290 [driver_wrapper] Window size: 800 x 600
+DEBUG   2020-02-17 13:34:37,298 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:37,304 [environment] Running new scenario: Negative Login process -- @1.1 
+INFO    2020-02-17 13:34:37,313 [custom_logger] Attempting to load page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:37,321 [custom_logger] Mobile page LoginPageObject = 'LoginPageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:34:43,272 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,286 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,337 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:43,392 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,399 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,409 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,451 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:43,504 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,511 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,518 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,558 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:43,597 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:43,608 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:43,612 [custom_logger] Loaded page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:43,616 [custom_logger] The mobile_page object = LoginPageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:43,619 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b21d710>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:43,623 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d3d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:43,626 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d910>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+DEBUG   2020-02-17 13:34:43,634 [custom_logger] Attempting to set 'email_address.text' to 'wrongemail': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:43,640 [custom_logger] Found element email_address in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:43,644 [custom_logger] Element email_address = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d910>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:43,675 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:44,034 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element/06af3fdc-4c7a-4556-90ab-f57c17808661/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:44,037 [custom_logger] Attempting to set 'password.text' to '74569852': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:44,039 [custom_logger] Found element password in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:44,041 [custom_logger] Element password = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d3d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:44,055 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:44,263 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element/15a35c1f-7edc-4539-802f-4da35e80c9e0/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:44,266 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:44,269 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d710>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:44,271 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:44,272 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d710>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:44,286 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:44,298 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:44,301 [custom_logger] sign_in_button.class = button btn btn-default button-medium: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:44,304 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:44,316 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:44,332 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:44,358 [connectionpool] http://127.0.0.1:41237 "GET /session/2ae920ea3c6aa9de41730757a4b9ad06/element/31e52cc2-8c7f-44aa-9dd0-4016cfde2914/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:44,364 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:44,384 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:45,636 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element/31e52cc2-8c7f-44aa-9dd0-4016cfde2914/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:45,640 [custom_logger] Clicked on element 'sign_in_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:34:45,643 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:45,645 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d710>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:45,659 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:45,673 [connectionpool] http://127.0.0.1:41237 "POST /session/2ae920ea3c6aa9de41730757a4b9ad06/execute/sync HTTP/1.1" 200 23
+DEBUG   2020-02-17 13:34:45,675 [custom_logger] sign_in_button.ID = SubmitLogin: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+INFO    2020-02-17 13:34:45,677 [environment] The scenario 'Negative Login process -- @1.1 ' has passed
+DEBUG   2020-02-17 13:34:45,732 [connectionpool] http://127.0.0.1:41237 "DELETE /session/2ae920ea3c6aa9de41730757a4b9ad06 HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:45,751 [config_parser] Reading properties from file: /dev/smh/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 13:34:45,754 [config_parser] Properties config file not found: /dev/smh/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 13:34:45,758 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 13:34:45,759 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 13:34:45,761 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 13:34:47,219 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59499
+DEBUG   2020-02-17 13:34:47,508 [connectionpool] http://127.0.0.1:59499 "POST /session HTTP/1.1" 200 643
+DEBUG   2020-02-17 13:34:47,625 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:47,631 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-02-17 13:34:47,755 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/window/maximize HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:47,775 [connectionpool] http://127.0.0.1:59499 "GET /session/375643a5c160cdf20baf136b5c865cfc/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:47,781 [driver_wrapper] Window size: 800 x 600
+DEBUG   2020-02-17 13:34:47,788 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:47,794 [environment] Running new scenario: Negative Login process -- @1.2 
+INFO    2020-02-17 13:34:47,807 [custom_logger] Attempting to load page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:47,814 [custom_logger] Mobile page LoginPageObject = 'LoginPageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:34:52,864 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:52,872 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:52,904 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:52,942 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:52,947 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:52,953 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:52,983 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:53,028 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:53,034 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:53,039 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:53,065 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:53,094 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:53,100 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:53,103 [custom_logger] Loaded page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:34:53,105 [custom_logger] The mobile_page object = LoginPageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:53,107 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223d50>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:53,110 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223cd0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:34:53,112 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223510>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+DEBUG   2020-02-17 13:34:53,117 [custom_logger] Attempting to set 'email_address.text' to 'rowankirchner@kineticskunk.com': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:53,120 [custom_logger] Found element email_address in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:53,124 [custom_logger] Element email_address = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223510>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:53,144 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:53,958 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element/59c0078c-baac-421b-8d80-194d7d7c0162/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:53,962 [custom_logger] Attempting to set 'password.text' to 'wrongpassword': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:34:53,964 [custom_logger] Found element password in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:53,966 [custom_logger] Element password = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223cd0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:53,979 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:54,370 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element/26a8b4dd-67c9-4234-946b-9680539a64d8/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:34:54,374 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:54,376 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223d50>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:34:54,378 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:54,379 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223d50>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:54,392 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:54,419 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:34:54,421 [custom_logger] sign_in_button.class = button btn btn-default button-medium: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:34:54,442 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:54,469 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:54,502 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:54,532 [connectionpool] http://127.0.0.1:59499 "GET /session/375643a5c160cdf20baf136b5c865cfc/element/1a648719-f57d-497e-87ff-512c300429ba/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:54,540 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:54,566 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:58,554 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element/1a648719-f57d-497e-87ff-512c300429ba/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:58,560 [custom_logger] Clicked on element 'sign_in_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:34:58,564 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:58,567 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223d50>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:34:58,581 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:34:58,592 [connectionpool] http://127.0.0.1:59499 "POST /session/375643a5c160cdf20baf136b5c865cfc/execute/sync HTTP/1.1" 200 23
+DEBUG   2020-02-17 13:34:58,594 [custom_logger] sign_in_button.ID = SubmitLogin: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+INFO    2020-02-17 13:34:58,595 [environment] The scenario 'Negative Login process -- @1.2 ' has passed
+DEBUG   2020-02-17 13:34:58,655 [connectionpool] http://127.0.0.1:59499 "DELETE /session/375643a5c160cdf20baf136b5c865cfc HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:34:58,680 [config_parser] Reading properties from file: /dev/smh/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 13:34:58,683 [config_parser] Properties config file not found: /dev/smh/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 13:34:58,686 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 13:34:58,689 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 13:34:58,691 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 13:35:00,149 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:50655
+DEBUG   2020-02-17 13:35:00,416 [connectionpool] http://127.0.0.1:50655 "POST /session HTTP/1.1" 200 643
+DEBUG   2020-02-17 13:35:00,550 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:00,555 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-02-17 13:35:00,680 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/window/maximize HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:00,698 [connectionpool] http://127.0.0.1:50655 "GET /session/5c16ac0be3d6c156e9f4dbb5baab14e3/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:00,703 [driver_wrapper] Window size: 800 x 600
+DEBUG   2020-02-17 13:35:00,711 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:00,717 [environment] Running new scenario: Negative Login process -- @1.3 
+INFO    2020-02-17 13:35:00,733 [custom_logger] Attempting to load page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:00,741 [custom_logger] Mobile page LoginPageObject = 'LoginPageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:35:09,837 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,841 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,860 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:09,884 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,887 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,890 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,909 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:09,931 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,935 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,938 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,956 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:09,975 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:09,979 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:09,981 [custom_logger] Loaded page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:09,983 [custom_logger] The mobile_page object = LoginPageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:09,985 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b21d7d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:09,986 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21dad0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:09,988 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d2d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+DEBUG   2020-02-17 13:35:09,990 [custom_logger] Attempting to set 'email_address.text' to 'wrongemail': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:35:09,992 [custom_logger] Found element email_address in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:09,994 [custom_logger] Element email_address = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21d2d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,007 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:10,291 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element/38035b5b-9f20-454e-86e2-d3df690f4165/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:10,294 [custom_logger] Attempting to set 'password.text' to 'wrongpassword': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:35:10,297 [custom_logger] Found element password in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,299 [custom_logger] Element password = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b21dad0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,314 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:10,684 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element/6d49bca8-7e87-48a3-b1d6-3986c6a79b11/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:10,689 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,691 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d7d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:35:10,693 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,695 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d7d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:10,710 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:10,724 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:10,726 [custom_logger] sign_in_button.class = button btn btn-default button-medium: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:35:10,730 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:10,743 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:10,759 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:10,773 [connectionpool] http://127.0.0.1:50655 "GET /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element/0b3ef6b9-881e-42c3-9e2c-e76ba8792e5f/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:10,777 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:10,790 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:14,078 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element/0b3ef6b9-881e-42c3-9e2c-e76ba8792e5f/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:14,082 [custom_logger] Clicked on element 'sign_in_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:35:14,087 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:14,091 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b21d7d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:14,114 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:14,132 [connectionpool] http://127.0.0.1:50655 "POST /session/5c16ac0be3d6c156e9f4dbb5baab14e3/execute/sync HTTP/1.1" 200 23
+DEBUG   2020-02-17 13:35:14,135 [custom_logger] sign_in_button.ID = SubmitLogin: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+INFO    2020-02-17 13:35:14,138 [environment] The scenario 'Negative Login process -- @1.3 ' has passed
+DEBUG   2020-02-17 13:35:14,201 [connectionpool] http://127.0.0.1:50655 "DELETE /session/5c16ac0be3d6c156e9f4dbb5baab14e3 HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:14,234 [config_parser] Reading properties from file: /dev/smh/Rowan Kirchner/ProjectDemo/conf/properties.cfg
+DEBUG   2020-02-17 13:35:14,239 [config_parser] Properties config file not found: /dev/smh/Rowan Kirchner/ProjectDemo/conf/local-properties.cfg
+INFO    2020-02-17 13:35:14,246 [config_driver] Creating local driver (type = chrome)
+DEBUG   2020-02-17 13:35:14,248 [config_driver] Chrome driver path given in properties: chromedriver
+DEBUG   2020-02-17 13:35:14,251 [config_driver] Running Chrome in headless mode
+DEBUG   2020-02-17 13:35:15,727 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:46895
+DEBUG   2020-02-17 13:35:16,026 [connectionpool] http://127.0.0.1:46895 "POST /session HTTP/1.1" 200 643
+DEBUG   2020-02-17 13:35:16,144 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:16,149 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-02-17 13:35:16,272 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/window/maximize HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:16,290 [connectionpool] http://127.0.0.1:46895 "GET /session/7fa51850990d8d7299a00c39acc9ae76/window/rect HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:16,295 [driver_wrapper] Window size: 800 x 600
+DEBUG   2020-02-17 13:35:16,303 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:16,310 [environment] Running new scenario: Positive Login process -- @1.1 
+INFO    2020-02-17 13:35:16,321 [custom_logger] Attempting to load page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:16,328 [custom_logger] Mobile page LoginPageObject = 'LoginPageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:35:22,860 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:22,867 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:22,898 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:22,937 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:22,942 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:22,947 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:22,978 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:23,015 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:23,020 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:23,024 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:23,051 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:23,077 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:23,083 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:23,087 [custom_logger] Loaded page LoginPageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:23,090 [custom_logger] The mobile_page object = LoginPageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:23,093 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223a50>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:23,095 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b22a110>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:23,101 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b22a6d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+DEBUG   2020-02-17 13:35:23,107 [custom_logger] Attempting to set 'email_address.text' to 'rowankirchner@kineticskunk.com': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:35:23,111 [custom_logger] Found element email_address in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:23,115 [custom_logger] Element email_address = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b22a6d0>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:23,135 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:23,912 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element/25841f36-6ec7-4dfb-9500-362b891ab2aa/value HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:23,915 [custom_logger] Attempting to set 'password.text' to '74569852': set_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:131
+INFO    2020-02-17 13:35:23,917 [custom_logger] Found element password in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:23,920 [custom_logger] Element password = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b22a110>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:23,935 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:24,147 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element/a3c46f8d-482a-475f-bf95-5ca0495f142f/value HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:24,150 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:24,152 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223a50>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+INFO    2020-02-17 13:35:24,154 [custom_logger] Found element sign_in_button in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:24,156 [custom_logger] Element sign_in_button = '<toolium.pageelements.button_page_element.Button object at 0x7f490b223a50>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:24,169 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:24,182 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 48
+DEBUG   2020-02-17 13:35:24,184 [custom_logger] sign_in_button.class = button btn btn-default button-medium: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+DEBUG   2020-02-17 13:35:24,186 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:24,199 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:24,214 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:24,229 [connectionpool] http://127.0.0.1:46895 "GET /session/7fa51850990d8d7299a00c39acc9ae76/element/e9e8fba4-86fa-459b-960b-fa3abc906576/enabled HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:24,232 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:24,247 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:29,100 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element/e9e8fba4-86fa-459b-960b-fa3abc906576/click HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:29,104 [custom_logger] Clicked on element 'sign_in_button': click_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:112
+INFO    2020-02-17 13:35:29,114 [custom_logger] Attempting to load page HomePageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:29,118 [custom_logger] Mobile page HomePageObject = 'HomePageObject': init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+DEBUG   2020-02-17 13:35:32,726 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/url HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,730 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,749 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:32,773 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,777 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,780 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,799 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:32,822 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 14
+DEBUG   2020-02-17 13:35:32,826 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/timeouts HTTP/1.1" 200 14
+INFO    2020-02-17 13:35:32,828 [custom_logger] Loaded page HomePageObject: init_web_page in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:51
+INFO    2020-02-17 13:35:32,830 [custom_logger] The mobile_page object = HomePageObject: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,831 [custom_logger] Element name = search, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223e90>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,833 [custom_logger] Element name = sign_in_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b233950>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,834 [custom_logger] Element name = create_button, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b2332d0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,836 [custom_logger] Element name = search_btn, value = <toolium.pageelements.button_page_element.Button object at 0x7f490b223ad0>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,838 [custom_logger] Element name = password, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b233510>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,839 [custom_logger] Element name = email_address, value = <toolium.pageelements.input_text_page_element.InputText object at 0x7f490b233190>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,841 [custom_logger] Element name = create_email, value = <toolium.pageelements.text_page_element.Text object at 0x7f490b233c50>: init_web_page_elements in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:75
+INFO    2020-02-17 13:35:32,843 [custom_logger] Found element search in 'dict': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:32,845 [custom_logger] Element search = '<toolium.pageelements.input_text_page_element.InputText object at 0x7f490b223e90>': get_element in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:86
+DEBUG   2020-02-17 13:35:32,859 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/element HTTP/1.1" 200 88
+DEBUG   2020-02-17 13:35:32,873 [connectionpool] http://127.0.0.1:46895 "POST /session/7fa51850990d8d7299a00c39acc9ae76/execute/sync HTTP/1.1" 200 28
+DEBUG   2020-02-17 13:35:32,875 [custom_logger] search.ID = search_query_top: get_mobile_element_attribute_value in /dev/smh/Rowan Kirchner/ProjectDemo/pageobjects/common.py:102
+INFO    2020-02-17 13:35:32,877 [environment] The scenario 'Positive Login process -- @1.1 ' has passed
+DEBUG   2020-02-17 13:35:32,932 [connectionpool] http://127.0.0.1:46895 "DELETE /session/7fa51850990d8d7299a00c39acc9ae76 HTTP/1.1" 200 14
