@@ -6,6 +6,7 @@ You can download the [real-vnc](https://www.realvnc.com/en/connect/download/view
 operating system.
 
 ##Running docker image
+
 ####  Step 1:
 For the Debugging we should require the Docker Selenium WebDriver Image with VNC server.So First Step is to build the \
 docker file
@@ -36,7 +37,9 @@ Go to properties.cfg file and insert host and port
 ![](Images/image2.png)
 
 ##Starting VNC and create VNC
+
 ####Step 1: 
+
 Open real VNC viewer downloaded in the previous Steps.
 
 ####Step 2: 
