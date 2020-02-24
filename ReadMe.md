@@ -4,7 +4,7 @@
 Automating of a clothing website called 'Your Laga", showing how user interactions will happen. The automation Process includes:
 
     - Creating a new account and Registering a customer
-    - Login in with exisiting user credentials(using positive - and negative process)
+    - Login in with existing user credentials(using positive - and negative process)
 
 ## Getting Started
 
