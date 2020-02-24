@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec17f84-415c-4ef0-b4e7-e554e549c658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrome-headless.dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/properties.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/conf/properties.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/toolium.log" beforeDir="false" afterPath="$PROJECT_DIR$/output/toolium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Running tests headless and in VNC.md" beforeDir="false" afterPath="$PROJECT_DIR$/Running tests headless and in VNC.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
