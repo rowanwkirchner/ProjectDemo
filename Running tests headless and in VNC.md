@@ -5,9 +5,10 @@
 You can download the [real-vnc](https://www.realvnc.com/en/connect/download/viewer/macos/). and Install as per your\
 operating system.
 
-##Running docker image
+## Running docker image
 
 ####  Step 1:
+
 For the Debugging we should require the Docker Selenium WebDriver Image with VNC server.So First Step is to build the \
 docker file
 ```sh
@@ -15,6 +16,7 @@ $ docker pull rowanwk/rowan:debug
 ```
 
 #### Step 2:
+
 the following step mounts the volume to the desired location within the container using flag -v. To get the ports to \
 link container with VNC server we use flag -P
   
@@ -23,6 +25,7 @@ $ docker run -v C:/Users/:/dev/smh/ -d -P rowan:debug
 ```
 
 #### Step 3:
+
 After running the Docker container we should verify the Container Process and Port Details.
 ```sh
 $ docker ps
@@ -36,13 +39,13 @@ Go to properties.cfg file and insert host and port
 
 ![](Images/image2.png)
 
-##Starting VNC and create VNC
+## Starting VNC and create VNC
 
-####Step 1: 
+#### Step 1: 
 
 Open real VNC viewer downloaded in the previous Steps.
 
-####Step 2: 
+#### Step 2: 
 From File Menu select: Create New Connection
 
 ####Step 3: 
@@ -65,7 +68,7 @@ Bash into the running container:
 $ docker exec -it <container ID> /bin/bash
 ```
 
-####Step 2:
+#### Step 2:
 
 cd into your working directory
 
