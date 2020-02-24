@@ -48,7 +48,7 @@ Open real VNC viewer downloaded in the previous Steps.
 #### Step 2: 
 From File Menu select: Create New Connection
 
-####Step 3: 
+#### Step 3: 
 Enter Value of VNC Server as localhost:
 
 ![](Images/image3.png)
